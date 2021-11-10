@@ -97,9 +97,17 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Build the docker image 
+  ```sh
+  docker build <container_name> .
+  ```
+ 
+ 2. Run the containter
+  ```sh
+  docker run <container_name>
+  ```
+  
+3. You should have a mail in your inbox from [nhan.paperbest.test@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
