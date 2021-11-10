@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
   docker run <container_name>
   ```
   
-3. You should have a mail in your inbox from [nhan.paperbest.test@gmail.com]
+3. You should have a mail in your inbox from [nhan.papernest.test@gmail.com]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
