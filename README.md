@@ -56,7 +56,6 @@ A fairly wide range of technical skills was being tested here, between python pr
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. 
 
 * [Python](https://www.python.org/)
 * [SQL](https://fr.wikipedia.org/wiki/Structured_Query_Language)
@@ -71,7 +70,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -88,7 +86,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/BobunNN/papernest_test.git
    ```
 
 
