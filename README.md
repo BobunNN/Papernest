@@ -9,14 +9,11 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/Logo_papernest.jpg" alt="Logo" width="80" height="80">
+    <img src="images/Logo_papernest.jpg" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Papernest technical test by Nhan Nguyen</h3>
 
-  <p align="center">
-    Papernest technical test by Nhan Nguyen
-  </p>
 </div>
 
 
