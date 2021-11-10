@@ -114,10 +114,15 @@ def send_mail():
     mdp = mail_pwd
 
     sender_address = "nhan.test.papernest@gmail.com"
-    receiver_address = "nhan.test.papernest@gmail.com"
+    receiver_address = "alexandre.colicchio@papernest.com"
 
     message = """ 
-    Voici le fichier final
+    Bonjour,
+    
+    Voici le fichier final.
+    Cordialement.
+    
+    Nhan Nguyen
     """
 
     msg = MIMEMultipart()
