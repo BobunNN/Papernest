@@ -58,11 +58,11 @@ A fairly wide range of technical skills was being tested here, between python pr
 
 This section should list any major frameworks/libraries used to bootstrap your project. 
 
-* [Python]
-* [SQL]
-* [Docker]
-* [pandas]
-* [psycopg2]
+* [Python](https://www.python.org/)
+* [SQL](https://fr.wikipedia.org/wiki/Structured_Query_Language)
+* [Docker](https://www.docker.com/)
+* [pandas](https://pandas.pydata.org/)
+* [psycopg2](https://pypi.org/project/psycopg2/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
