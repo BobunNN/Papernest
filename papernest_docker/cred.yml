@@ -1,0 +1,14 @@
+db:
+  database: souscritootest
+  user: testread
+  host: souscritootest.cuarmbocgsq7.eu-central-1.rds.amazonaws.com
+  password: testread
+  port: 5432
+ftp:
+  host: "35.157.119.136"
+  port: 21
+  user: candidate
+  passwd: XHf8CAwZFzTtfK7qxZ
+mail:
+  adress: "nhan.test.papernest@gmail.com"
+  pwd: "TEST.nhan"
