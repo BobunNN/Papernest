@@ -85,13 +85,14 @@ To get a local copy up and running follow these simple example steps.
 
 1. Build the docker image 
   ```sh
-  docker build <container_name> .
+  docker build -t <container_name> ./papernest_test/papernest_docker
   ```
  
  2. Run the containter
   ```sh
   docker run <container_name>
   ```
+  The script might take about a minute to fully execute.
   
 3. You should have a mail in your inbox from [nhan.papernest.test@gmail.com]
 
